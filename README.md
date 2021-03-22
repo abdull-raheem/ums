@@ -32,7 +32,7 @@ mkdir UMS
 
 cd UMS
 
-git clone https://github.com/usmanasif/ums.git
+git clone https://github.com/abdull-raheem/ums.git
 
 cd ums
 ```
